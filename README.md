@@ -1,0 +1,1 @@
+Univsite is a high school project that showcases a fully functional university website designed to serve as an information hub for students, faculty, and visitors. The project was built to demonstrate practical web development skills.
